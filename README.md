@@ -7,6 +7,6 @@ Node.js 9.6.7+
 3. Run start.bat
 
 # Notes
--The first player card gives preliminary results. Please enter your second card before evaluating the odds.
--Rates may not apply to all variants of Blackjack. Use at your discretion.
--Gambling is not recommended.
+-The first player card gives preliminary results. Please enter your second card before evaluating the odds.  
+-Rates may not apply to all variants of Blackjack. Use at your discretion.  
+-Gambling is not recommended.  
