@@ -2,9 +2,9 @@
 Node.js 9.6.7+
 
 # Installation
->Download as a ZIP file
->Unzip the ZIP file
->Run start.bat
+1. Download as a ZIP file
+2. Unzip the ZIP file
+3. Run start.bat
 
 # Notes
 -The first player card gives preliminary results. Please enter your second card before evaluating the odds.
